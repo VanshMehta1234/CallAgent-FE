@@ -20,6 +20,21 @@ CallAgent brings lead management, agent configuration, calling controls, and cal
 
 **Repository scope:** this is the Next.js frontend. Telephony, speech processing, model execution, persistence, and call analysis depend on a compatible backend. The hosted frontend presents a sign-in screen; it is not an unrestricted product demo.
 
+## Screenshots
+
+Captured from this frontend running locally with a read-only fixture API. The numbers and DemoCare content are fictional demonstration data, not production results.
+
+### Operations dashboard
+
+![CallAgent dashboard showing lead statistics, call metrics, and workflow shortcuts](https://github.com/user-attachments/assets/da778db1-b6d9-4cd0-ac48-d869391f47f0)
+
+<details>
+<summary><strong>View agent configuration</strong></summary>
+
+![CallAgent configuration interface with greeting, behavior, knowledge-base, and retry tabs](https://github.com/user-attachments/assets/6e827b0e-b1ad-475a-acca-b25608988278)
+
+</details>
+
 ## Product walkthrough
 
 | Workspace | What an operator can do |
