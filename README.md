@@ -35,6 +35,24 @@ Captured from this frontend running locally with a read-only fixture API. The nu
 
 </details>
 
+## Related project: Retell AI Call Agent
+
+A separate voice-AI project focused on structured conversation flows, knowledge-base ordering, validation and recovery routes, and API/n8n actions. The public walkthrough also shows the VoiceAgent dashboard, lead management, call history, and campaign interfaces.
+
+**Stack:** Retell AI · n8n · API integrations · workflow design
+
+[View case study and all five product screens](https://www.builtbyvansh.com/project/ai-voice-agent) · [Open hosted application](https://ai-voice-agent-ezyk.vercel.app/dashboard)
+
+The images below are from the existing public portfolio walkthrough. The hosted application requires sign-in. This is a separate project; its implementation is not included in this repository.
+
+### Retell project dashboard
+
+![Retell VoiceAgent dashboard showing lead priority statistics, scoring summaries, and operational navigation](https://www.builtbyvansh.com/assets/projects/VoiceAgent/voice_1.png)
+
+### Campaign management
+
+![Retell VoiceAgent campaign interface with campaign statuses, calling windows, retry settings, and start or pause controls](https://www.builtbyvansh.com/assets/projects/VoiceAgent/voice_4.png)
+
 ## Product walkthrough
 
 | Workspace | What an operator can do |
