@@ -27,7 +27,7 @@ CallAgent brings lead management, agent configuration, calling controls, and cal
 <details>
 <summary><strong>Play the 26-second walkthrough inline</strong></summary>
 
-https://github.com/user-attachments/assets/51d52d69-d8fa-49ea-867d-919b7db276ff
+https://github.com/user-attachments/assets/c11845c3-4b65-4287-a6c7-d37972d227a0
 
 </details>
 
