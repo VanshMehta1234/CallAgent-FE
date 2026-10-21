@@ -20,21 +20,6 @@ CallAgent brings lead management, agent configuration, calling controls, and cal
 
 **Repository scope:** this is the Next.js frontend. Telephony, speech processing, model execution, persistence, and call analysis depend on a compatible backend. The hosted frontend presents a sign-in screen; it is not an unrestricted product demo.
 
-## Watch the product walkthrough
-
-![CallAgent walkthrough — dashboard and agent configuration](docs/media/walkthrough-poster.png)
-
-<details>
-<summary><strong>Play the 26-second walkthrough inline</strong></summary>
-
-https://github.com/user-attachments/assets/c11845c3-4b65-4287-a6c7-d37972d227a0
-
-</details>
-
-**[Watch or download the 26-second video (MP4)](https://github.com/VanshMehta1234/CallAgent-FE/raw/refs/heads/main/docs/media/callagent-walkthrough.mp4)** — dashboard overview, workflow shortcuts, and agent configuration. Silent, with on-screen captions.
-
-Created from actual frontend screens captured locally with fictional demo data and a read-only fixture API. This is a guided screen tour; no live calls or production results are shown. The separate Retell project is covered below.
-
 ## Screenshots
 
 Captured from this frontend running locally with a read-only fixture API. The numbers and DemoCare content are fictional demonstration data, not production results.
